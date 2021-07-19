@@ -1,0 +1,9 @@
+{
+	"name": "instancia-DF",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "93772a01-8327-48f0-818c-8e6a7cfb0dff",
+		"tenantId": "c133ffe8-2866-4d98-984b-a0b7c3935b11"
+	}
+}
